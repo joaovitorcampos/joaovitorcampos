@@ -1,5 +1,5 @@
 Hi, I’m @joaovitorcampos
-I'm currently learning Java, HTML, CSS, JavaScript and C.
+I'm currently learning Java, HTML, CSS, JavaScript and Python.
 I'm also on LinkedIn: https://br.linkedin.com/in/joaovitorcamposribeiro
 Please, send me a personal message there if you're interested on a collaboration.
 <!---
